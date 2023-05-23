@@ -1,0 +1,3 @@
+*/**/__pycache__
+*/**/.venv
+*/**/sentry_install_log*
